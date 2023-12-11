@@ -161,9 +161,9 @@ th.headerCell.merged {
     text-align: left;
   }
   
-/*   .numeric {
+ .numeric {
     text-align: right;
-  } */
+  } 
   
   .negative {
     color: red;
