@@ -65,6 +65,10 @@
     color: white;
 
   }
+
+th.headerCell.merged {
+    border: 1px solid #bdc3c7;
+}
   
   .headerCell.measure {
     background-color: #8b9aab;
