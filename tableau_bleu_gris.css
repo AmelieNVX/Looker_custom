@@ -48,14 +48,14 @@
     color: white;
     padding: 5px;
     border-bottom: 1px solid #BDC3C7;
-    text-align: center;    
+    text-align: center !important;    
   }
   
   .headerCell.dimension {
     background-color: #8b9aab;
     border-right: 1px solid #BDC3C7; 
     color: white;
-    text-align: center;
+    text-align: center !important;
 
   }
   
@@ -70,7 +70,7 @@
     background-color: #8b9aab;
     border-left: 1px solid #BDC3C7; 
     color: white;
-    text-align: center;
+    text-align: center !important;
 
   }
   
@@ -78,7 +78,7 @@
     background-color: #8b9aab;
     border-left: 1px solid #BDC3C7;
     color: white;
-        text-align: center;
+        text-align: center !important;
 
   }
   
